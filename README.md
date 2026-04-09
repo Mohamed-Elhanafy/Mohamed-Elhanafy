@@ -2,8 +2,8 @@
 val Mohamed = developer {
     name = "Mohamed Elhanafy"
     location = "Cairo, Egypt"
-    company {
-        company = "OTAS"
+    company = {
+        name = "OTAS"
         domain = "Travel Booking Platform"
     }
     offDuty  = listOf("reading books", "playing video games")
